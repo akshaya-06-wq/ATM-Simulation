@@ -15,19 +15,19 @@ This is a simple ATM simulation program written in Java using the Swing library 
 
 The user enters an amount to deposit and clicks the "Deposit" button.
 
-![Deposit Money](deposit.png)
+![Deposit Money](deposit.jpeg)
 
 ### 2. **Withdraw Money**
 
 The user enters an amount to withdraw and clicks the "Withdraw" button.
 
-![Withdraw Money](withdraw.png)
+![Withdraw Money](withdraw.jpeg)
 
 ### 3. **Check Balance**
 
 The user clicks "Check Balance" to view the current balance.
 
-![Check Balance](checkBalance.png)
+![Check Balance](checkBalance.jpeg)
 
 ## Requirements
 
